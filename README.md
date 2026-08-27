@@ -1,11 +1,11 @@
 ### Hi there, I'm Arpita Pandit 👋
 
-MCA Final Year | Aspiring Software Developer | From Asansol, WB
+MCA Final Year | Aspiring Software Developer | Midnapore, WB
 
 ---
 
 🚀 **About Me:**
-- 🎓 MCA Final Year Student
+- 🎓 MCA Final Year Student of Techno India College of Technology 
 - 💻 Passionate about Java, Python & Web Development
 - 🌱 Learning DSA & MERN Stack daily
 - 🎯 Looking for SDE / Developer Roles - 2026
@@ -14,11 +14,11 @@ MCA Final Year | Aspiring Software Developer | From Asansol, WB
 Java | Python | C | HTML | CSS | JavaScript | MySQL | Git & GitHub
 
 📚 **Currently Working On:**
-- DSA Preparation in Java
-- Major Project (Final Year)
+- DSA Preparation
+- Minor Project (Final Year)
 
 📫 **Connect With Me:**
-- LinkedIn: (tomar link add korbe)
-- Email: (tomar email add korbe)
+- LinkedIn: https://www.linkedin.com/in/arpita-pandit-a992a4372?
+- Email: pandit2002arpita@gmail.com
 
 ✨ Thanks for visiting! Let's connect and grow together!
