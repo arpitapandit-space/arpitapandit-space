@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hi there, I'm Arpita Pandit 👋
 
-<!--
-**arpitapandit-space/arpitapandit-space** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MCA Final Year | Aspiring Software Developer | From Asansol, WB
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **About Me:**
+- 🎓 MCA Final Year Student
+- 💻 Passionate about Java, Python & Web Development
+- 🌱 Learning DSA & MERN Stack daily
+- 🎯 Looking for SDE / Developer Roles - 2026
+
+🛠️ **Tech Stack:**
+Java | Python | C | HTML | CSS | JavaScript | MySQL | Git & GitHub
+
+📚 **Currently Working On:**
+- DSA Preparation in Java
+- Major Project (Final Year)
+
+📫 **Connect With Me:**
+- LinkedIn: (tomar link add korbe)
+- Email: (tomar email add korbe)
+
+✨ Thanks for visiting! Let's connect and grow together!
