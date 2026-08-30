@@ -18,7 +18,7 @@ Java | Python | C | HTML | CSS | JavaScript | MySQL | Git & GitHub
 - Minor Project (Final Year)
 
 📫 **Connect With Me:**
-- LinkedIn: https://www.linkedin.com/in/arpita-pandit-a992a4372?
+- LinkedIn:[Arpita Pandit] https://www.linkedin.com/in/arpita-pandit-a992a4372?
 - Email: pandit2002arpita@gmail.com
 
 ✨ Thanks for visiting! Let's connect and grow together!
